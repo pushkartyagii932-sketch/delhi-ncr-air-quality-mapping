@@ -27,7 +27,7 @@ To analyze the spatial and temporal distribution of aerosol concentration over D
 ## 🗺️ Study Area
 
 <p align="center">
-  <img src="images/aoi_map.png" alt="Study Area - Delhi NCR" width="700"/>
+  <img src="aoi_map.png" alt="Study Area - Delhi NCR" width="700"/>
 </p>
 
 AOI manually drawn over the Delhi NCR region (New Delhi, Gurugram, Faridabad) using the GEE drawing tool.
@@ -74,11 +74,11 @@ print('Area per pollution class (sq km):', areaStats);
 ## 📊 Results
 
 <p align="center">
-  <img src="images/aod_map.png" alt="AOD Classified Map" width="700"/>
+  <img src="aod_map.png" alt="AOD Classified Map" width="700"/>
 </p>
 
 <p align="center">
-  <img src="images/hotspots.png" alt="Pollution Hotspots" width="700"/>
+  <img src="hotspots.png" alt="Pollution Hotspots" width="700"/>
 </p>
 
 | Class | Area (sq. km) | % of Total |
